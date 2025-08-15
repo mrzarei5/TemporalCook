@@ -1,6 +1,6 @@
 # TemporalCook: Visual Question Answering for Cooking Activities
 
-**This repository is the official repository for TemporalCook: Benchmarking Temporal and Procedural Reasoning in Multimodal Large Language Models**
+**This is the official repository for TemporalCook: Benchmarking Temporal and Procedural Reasoning in Multimodal Large Language Models**
 
 > **Paper**: Accepted to [MUCG @ ACM MM 2025](https://mucg-workshop.github.io/) (The 1st International Workshop on MLLM for Unified Comprehension and Generation) 
 
