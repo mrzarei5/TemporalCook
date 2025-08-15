@@ -1,12 +1,6 @@
 # TemporalCook: Visual Question Answering for Cooking Activities
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-
-**This repository is the initial official code accompanying TemporalCook: Benchmarking Temporal and Procedural Reasoning in Multimodal Large Language Models**
-
-This is the evaluation framework for TemporalCook benchmark.
+**This repository is the official repository for TemporalCook: Benchmarking Temporal and Procedural Reasoning in Multimodal Large Language Models**
 
 > **Paper**: Accepted to [MUCG @ ACM MM 2025](https://mucg-workshop.github.io/) (The 1st International Workshop on MLLM for Unified Comprehension and Generation) 
 
